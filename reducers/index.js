@@ -2,7 +2,7 @@ const initialState = {
   counter : [
       {
           counterNum : 0,
-          counterName: '',
+          counterName: 'None',
       },
   ],
 };
